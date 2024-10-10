@@ -43,3 +43,14 @@ cd path/to/your/portfolio
 
 # Start a local server
 python -m http.server 8000
+
+
+
+### Instructions
+
+1. Create a file named `README.md` in your project folder.
+2. Copy the content above into that file.
+3. Customize any sections as necessary, especially your email address and any additional features or technologies you've used.
+
+Feel free to modify it further to reflect your style and personality! If you need any more help, just let me know!
+
